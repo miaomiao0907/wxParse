@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "wxparser": "/components/wxParser/wxParser",
+    "wxparsertext": "/components/wxParser/wxParse/wxParserText/wxParserText"
+
+  }
+}

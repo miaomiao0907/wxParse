@@ -1,0 +1,6 @@
+<!--pages/richtext/richtext.wxml-->
+<view style='padding-left:48rpx;padding-right:48rpx;font-size:28rpx;'>
+    <wxparser level="20" rich-text= "{{content}}">
+        <wxparsertext slot="after" style-str="" node="text"></wxparsertext>
+    </wxparser>
+</view>
